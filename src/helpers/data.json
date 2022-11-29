@@ -1,0 +1,19 @@
+{
+    "framework": [
+        {
+            "id": 1,
+            "name": "React",
+            "web": "https://react"
+        },
+        {
+            "id": 2,
+            "name": "Vue",
+            "web": "https://Vue"
+        },
+        {
+            "id": 3,
+            "name": "Angular",
+            "web": "https://Angular"
+        }
+    ]
+}

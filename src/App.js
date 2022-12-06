@@ -18,6 +18,7 @@ import CustomHooks from "./components/HooksCustom";
 import Referencias from "./components/Referencias";
 import Formularios from "./components/Formularios";
 import Estilos from "./components/Estilos";
+import ComponentesEstilizados from "./components/ComponentesEstilizados";
 
 function App() {
   let nombre = "John";
@@ -102,6 +103,8 @@ function App() {
             <Formularios/>
             <hr />
             <Estilos/>
+            <hr />
+            <ComponentesEstilizados/>
           </section>
         </header>
       </div>
